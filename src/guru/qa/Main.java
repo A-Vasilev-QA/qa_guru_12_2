@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Let's make a conflict in this line");
     }
 
+    public static void another() {
+        System.out.println("Another method!");
+    }
+
 }
